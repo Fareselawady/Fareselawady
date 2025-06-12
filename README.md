@@ -1,34 +1,22 @@
 <h1 align="center">Hi 👋, I'm Fares Elawady</h1>
 <h3 align="center">Undergrad at Faculty of Computer Science and Information, Mansoura University</h3>
 
-<br>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fareselawady&label=Profile%20views&color=0e75b6&style=flat" alt="fareselawady" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="fareselawady" width="400"/>
-</p>
-
 ---
 
-- 🌱 I’m currently learning more about **Backend Development with ASP.NET and SQL Server**
-- 📫 How to reach me: **ifareselawady50@gmail.com**
-- ⚡ Fun fact: I love turning ideas into real-world systems ⚙️
+- 💻 I'm a passionate backend developer using **C#**, **ASP.NET**, and **Entity Framework**
+- 🎯 Interested in full stack development and software engineering
+- 🎓 Participated in **CCIC** and **DEPI** trainings
+- 📫 Reach me at: **ifareselawady50@gmail.com**
 
 ---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin-url" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/fares-elawady-368441263/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fares elawady" height="30" width="40" />
   </a>
-  <a href="https://www.facebook.com/your-facebook-url" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/your-instagram-url" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
+  <a href="mailto:ifareselawady50@gmail.com" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/White/Gmail_white.svg" alt="gmail" height="30" width="40" />
   </a>
 </p>
 
@@ -36,25 +24,25 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="ASP.NET" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL Server" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL Server" width="40" height="40"/>
 </p>
 
 ---
 
-<h3>📊 GitHub Stats:</h3>
+<h3>GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fareselawady&show_icons=true&locale=en&layout=compact&bg_color=0d1117&text_color=ffffff" alt="fareselawady" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FaresElawady&show_icons=true&theme=dark" alt="Fares GitHub stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fareselawady&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff" alt="fareselawady" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=FaresElawady&theme=dark" alt="Fares GitHub streak"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fareselawady&theme=dark&background=0d1117" alt="fareselawady" />
-</p>
+---
+
+<p align="center">⭐️ Thank you for visiting my GitHub profile!</p>
