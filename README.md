@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fares Elawady</h1>
-<h3 align="center">Undergrad at Faculty of Computer Science and Information, Mansoura University</h3>
+<h3 align="center">Undergrad at Faculty of Computer Science and Information, Mansoura University from Egypt</h3>
 
 ---
 
