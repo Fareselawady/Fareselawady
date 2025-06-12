@@ -50,9 +50,7 @@
 <h3>GitHub Stats:</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FaresElawady&show_icons=true&theme=dark" alt="Fares GitHub stats"/>
-</p>
 
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=FaresElawady&theme=dark" alt="Fares GitHub streak"/>
 </p>
 
