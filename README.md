@@ -55,6 +55,5 @@
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaresElawady&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
 </div>
----
 
 <p align="center">⭐️ Thank you for visiting my GitHub profile!</p>
