@@ -49,8 +49,7 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <div align="center">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=Fareselawady&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="Fares GitHub stats" />
- -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Fareselawady&show_icons=true&theme=github_dark&hide_border=true" alt="Fares's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fareselawady&theme=github-dark&hide_border=true" alt="Fares GitHub streak" />
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fareselawady&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
