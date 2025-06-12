@@ -46,14 +46,15 @@
 
 
 ---
+<h3 align="center">📊 GitHub Stats</h3>
 
-<h3>GitHub Stats:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FaresElawady&show_icons=true&theme=dark" alt="Fares GitHub stats"/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FaresElawady&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="Fares GitHub stats" />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=FaresElawady&theme=dark" alt="Fares GitHub streak"/>
-</p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FaresElawady&theme=github-dark&hide_border=true" alt="Fares GitHub streak" />
 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaresElawady&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+</div>
 ---
 
 <p align="center">⭐️ Thank you for visiting my GitHub profile!</p>
