@@ -19,10 +19,10 @@ Mansoura University 🇪🇬
 ## 🔗 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/fares-elawady-368441263/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:ifareselawady50@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
@@ -30,7 +30,7 @@ Mansoura University 🇪🇬
 
 ## 🛠 Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,html,css,sql,git,github,bootstrap,visualstudio" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,js,html,css,sql,git,github,bootstrap,visualstudio" />
 </p>
 
 ---
