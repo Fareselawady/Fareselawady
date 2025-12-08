@@ -1,59 +1,61 @@
 <h1 align="center">Hi 👋, I'm Fares Elawady</h1>
-<h3 align="center">Undergrad at Faculty of Computer Science and Information, Mansoura University from Egypt</h3>
+<h3 align="center">
+Backend Developer | Computer Science Student  
+<br/>
+Mansoura University 🇪🇬
+</h3>
 
 ---
 
-- 💻 I'm a passionate backend developer using **C#**, **ASP.NET**, and **Entity Framework**
-- 🎯 Interested in full stack development and software engineering
-- 🎓 Participated in **CCIC** and **DEPI** trainings
-- 📫 Reach me at: **ifareselawady50@gmail.com**
+## 👨‍💻 About Me
+- 💻 Backend Developer using **C#**, **ASP.NET Core**, **Entity Framework**
+- 🌱 Interested in **Full Stack Development** & **Software Engineering**
+- 🎓 Computer Science student at Mansoura University
+- 🏆 Participated in **CCIC** & **DEPI** training programs
+- 📫 Email: **ifareselawady50@gmail.com**
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/fares-elawady-368441263/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fares elawady" height="30" width="40" />
-  </a>
-  <a href="mailto:ifareselawady50@gmail.com" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/White/Gmail_white.svg" alt="gmail" height="30" width="40" />
-  </a>
-</p>
-
----
-
-<h3 align="left">Languages and Tools:</h3>
+## 🔗 Connect with Me
 <p align="center">
-  <!-- Languages -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-
-  <!-- Database -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="MS SQL Server" width="40" height="40"/>
-
-  <!-- Frameworks & Libraries -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jQuery" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
-
-  <!-- Tools -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://img.icons8.com/ios-glyphs/30/ffffff/github.png" alt="GitHub" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40"/>
+  <a href="https://www.linkedin.com/in/fares-elawady-368441263/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ifareselawady50@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
+---
+
+## 🛠 Languages & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,html,css,sql,git,github,bootstrap,visualstudio" />
+</p>
 
 ---
-<h3 align="center">📊 GitHub Stats</h3>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fareselawady&show_icons=true&theme=github_dark&hide_border=true" alt="Fares's GitHub Stats" />
+## 📌 Featured Skills
+- RESTful APIs with ASP.NET Core  
+- Entity Framework & SQL Server  
+- Clean Architecture & MVC  
+- Git & GitHub workflow  
 
+---
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fareselawady&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages Used" />
-</div>
+## 📊 GitHub Stats
+> ⚠️ If stats are temporarily unavailable, this section may not load.
 
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Fareselawady&show_icons=true&theme=github_dark&hide_border=true" />
+</p>
 
-<p align="center">⭐️ Thank you for visiting my GitHub profile!</p>
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Fareselawady&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+⭐️ Thanks for visiting my profile!
+</p>
