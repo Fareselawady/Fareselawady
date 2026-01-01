@@ -8,10 +8,10 @@ Mansoura University – Egypt 🇪🇬
 ---
 
 ## 👨‍💻 About Me
-- 💻 Passionate backend developer using **C#**, **ASP.NET**, and **Entity Framework**
-- 🎯 Interested in **Full Stack Development** and **Software Engineering**
-- 🎓 Participated in **CCIC** and **DEPI** trainings
-- 📫 Reach me at: **ifareselawady50@gmail.com**
+- 💻 Passionate backend developer using <b>C#</b>, <b>ASP.NET</b>, and <b>Entity Framework</b>
+- 🎯 Interested in <b>Full Stack Development</b> and <b>Software Engineering</b>
+- 🎓 Participated in <b>CCIC</b> and <b>DEPI</b> trainings
+- 📫 Reach me at: <b>ifareselawady50@gmail.com</b>
 
 ---
 
@@ -56,11 +56,11 @@ Mansoura University – Egypt 🇪🇬
 ## 📊 GitHub Stats
 <p align="center">
   <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Fareselawady&show_icons=true&theme=github_dark&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=Fareselawady&show_icons=true&theme=github_dark&hide_border=true"
     height="165"
   />
   <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Fareselawady&layout=compact&theme=github_dark&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fareselawady&layout=compact&theme=github_dark&hide_border=true"
     height="165"
   />
 </p>
