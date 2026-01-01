@@ -1,6 +1,18 @@
 <h1 align="center">Hi 👋, I'm Fares Elawady</h1>
 <h3 align="center">Back-End .NET Developer</h3>
 
+<p align="center">
+Junior .NET Developer from Egypt with hands-on training in **C#, ASP.NET, SQL Server** and practical backend experience.
+</p>
+
+---
+
+## 💼 Trainings
+<p align="center">
+  <b>CCIC (Aug 2024 - Oct 2024)</b> — Back-End .NET Trainee<br/>
+  <b>Egypt Digital Pioneers Initiative (DEPI 2) (Nov 2024 - May 2025)</b> — Full-Stack .NET Trainee
+</p>
+
 ---
 
 ## 🛠 Skills
@@ -10,7 +22,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40"/>
   <img src="https://img.icons8.com/ios-glyphs/30/ffffff/github.png" width="40"/>
 </p>
 
@@ -30,7 +46,7 @@
 
 ---
 
-## 🔗 Connect
+## 🔗 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/fares-elawady-368441263/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
