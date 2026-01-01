@@ -28,8 +28,6 @@ Junior .NET Developer from Egypt with hands-on training in **C#, ASP.NET, SQL Se
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40"/>
   <img src="https://img.icons8.com/ios-glyphs/30/ffffff/github.png" width="40"/>
-  <img src="https://cdn.iconscout.com/icon/free/png-256/postman-3521615-2944957.png" width="40"/>
-  <img src="https://cdn.iconscout.com/icon/free/png-256/swagger-11-461522.png" width="40"/>
 </p>
 
 ---
