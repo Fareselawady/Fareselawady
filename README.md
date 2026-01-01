@@ -9,8 +9,8 @@ Junior .NET Developer from Egypt with hands-on training in **C#, ASP.NET, SQL Se
 
 ## 💼 Trainings
 <p align="center">
-  <b>CCIC (Aug 2024 - Oct 2024)</b> — Back-End .NET Trainee<br/>
-  <b>Egypt Digital Pioneers Initiative (DEPI 2) (Nov 2024 - May 2025)</b> — Full-Stack .NET Trainee
+  <b>CCIC </b> — Back-End .NET Trainee<br/>
+  <b>Egypt Digital Pioneers Initiative (DEPI 2) </b> — Full-Stack .NET Trainee
 </p>
 
 ---
